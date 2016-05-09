@@ -31,3 +31,11 @@ The objects returned can be any objects as long as they conform to the `UILayout
 ### Run the code ###
 
 The code serves as an example, it runs with Xcode 7.3. Just get the project and run it.
+
+### Screen Shots ###
+
+The screen shots below show a map and translucent bars. You can clearly see the map through the bars while at the same time the legal notice and the compass are positioned correctly.
+
+![Screen Shot Map](/Documentation%20Assets/ScreenShot-Map.jpg?raw=true)
+
+![Screen Shot Satellite](/Documentation%20Assets/ScreenShot-Satellite.jpg?raw=true)
